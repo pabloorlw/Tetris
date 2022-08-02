@@ -1,2 +1,2 @@
 # Tetris
-University project from the course "Structure and Technology of Computers" of Computer Science degree.
+The goal of this project is to code a simple Tetris in assembly using MARS IDE.
