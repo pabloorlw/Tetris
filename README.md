@@ -1,2 +1,2 @@
 # Tetris
-The goal of this project is to code a simple Tetris in assembly using MIPS.
+A simple version of the Tetris game written in MIPS Assembly language
